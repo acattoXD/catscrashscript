@@ -1,5 +1,19 @@
 -- Made by a cat#0002, ALL THESE SCRIPTS AREN'T MINE! I COMBINED MULTIPLE SCRIPTS!
 
+getgenv().crasheroption = {
+    Crasher1 = 12345, -- Put ur crasher ID (by that i mean which alt u want to crash ID)
+    Crasher2 = 12345, -- It is recommanded to use 2 alts to crash.
+}
+-- [[ End of Settings ]]
+-- [[ Launcher ]] --
+
+
+
+
+
+
+
+if game.Players.LocalPlayer.UserId == crasheroption["Crasher1", "Crasher2"] then
 local decalsyeeted = true
 local g = game
 local w = g.Workspace
@@ -102,4 +116,5 @@ for i, e in pairs(l:GetChildren()) do
     if e:IsA("BlurEffect") or e:IsA("SunRaysEffect") or e:IsA("ColorCorrectionEffect") or e:IsA("BloomEffect") or e:IsA("DepthOfFieldEffect") then
         e.Enabled = false
     end
+end
 end
