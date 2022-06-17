@@ -5,7 +5,7 @@ FPS Optimizer for Crashing made in **Lua**
 Any questions go in my **Discord DMS** (a cat#0002)
 **If there are any bugs, please let me know at my discord**
 
-I get about 500 FPS with this script, i usually get 200 FPS, it really should help low end pc's.
+I get about 700 FPS with this script, i usually get 200 FPS, it really should help low end pc's.
 
 ## Specs I use
 
