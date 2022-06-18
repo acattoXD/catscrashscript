@@ -1,40 +1,40 @@
 if game.Players.LocalPlayer.UserId == crasheroption["Crasher1"] then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxscript"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxpart"))()
 	game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
 	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(39595.7852, 12283.874, -16767.7617, 0.659686148, -5.78190367e-08, -0.751541257, 1.04973985e-08, 1, -6.77195686e-08, 0.751541257, 3.67844351e-08, 0.659686148)
 end
 if game.Players.LocalPlayer.UserId == crasheroption["Crasher2"] then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxscript"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxpart"))()
 	game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
 	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(39595.7852, 12284.874, -16767.7617, 0.659686148, -5.78190367e-08, -0.751541257, 1.04973985e-08, 1, -6.77195686e-08, 0.751541257, 3.67844351e-08, 0.659686148)
 end
 if game.Players.LocalPlayer.UserId == crasheroption["Crasher3"] then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxscript"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxpart"))()
 	game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
 	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(39595.7852, 12285.874, -16767.7617, 0.659686148, -5.78190367e-08, -0.751541257, 1.04973985e-08, 1, -6.77195686e-08, 0.751541257, 3.67844351e-08, 0.659686148)
 end
 if game.Players.LocalPlayer.UserId == crasheroption["Crasher4"] then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxscript"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxpart"))()
 	game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
 	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(39595.7852, 12286.874, -16767.7617, 0.659686148, -5.78190367e-08, -0.751541257, 1.04973985e-08, 1, -6.77195686e-08, 0.751541257, 3.67844351e-08, 0.659686148)
 end
 if game.Players.LocalPlayer.UserId == crasheroption["Crasher5"] then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxscript"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxpart"))()
 	game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
 	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(39595.7852, 12287.874, -16767.7617, 0.659686148, -5.78190367e-08, -0.751541257, 1.04973985e-08, 1, -6.77195686e-08, 0.751541257, 3.67844351e-08, 0.659686148)
 end
 if game.Players.LocalPlayer.UserId == crasheroption["Crasher6"] then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxscript"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxpart"))()
 	game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
 	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(39595.7852, 12288.874, -16767.7617, 0.659686148, -5.78190367e-08, -0.751541257, 1.04973985e-08, 1, -6.77195686e-08, 0.751541257, 3.67844351e-08, 0.659686148)
 end
 if game.Players.LocalPlayer.UserId == crasheroption["Crasher7"] then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxscript"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxpart"))()
 	game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
 	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(39595.7852, 12289.874, -16767.7617, 0.659686148, -5.78190367e-08, -0.751541257, 1.04973985e-08, 1, -6.77195686e-08, 0.751541257, 3.67844351e-08, 0.659686148)
 end
 if game.Players.LocalPlayer.UserId == crasheroption["Crasher8"] then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxscript"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/acattoXD/catscrashscript/main/lowgfxpart"))()
 	game.Players.LocalPlayer.Character.HumanoidRootPart.Anchored = true
 	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(39595.7852, 12290.874, -16767.7617, 0.659686148, -5.78190367e-08, -0.751541257, 1.04973985e-08, 1, -6.77195686e-08, 0.751541257, 3.67844351e-08, 0.659686148)
 end
